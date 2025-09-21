@@ -1,6 +1,8 @@
 # Safe-Site-Predictor
 Safe Site Predictor is a machine learning project designed to detect phishing and malicious websites with high accuracy. It leverages the RandomForestClassifier algorithm to achieve 97% accuracy in predicting website authenticity
 
+Link to the Dataset: https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning?resource=download
+
 Features:
 
   - 97% Accuracy in phishing detection using Random Forest.
